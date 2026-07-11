@@ -62,7 +62,7 @@ OPEN PORTS FOUND: 2
 ```
 
 See screenshot attached for the full scan output.
-![Port scan output](./screenshots/YOUR-FILENAME.png)
+![Port scan output](./Screenshot%202026-07-11%20041021.png)
 
 ## How it works
 
